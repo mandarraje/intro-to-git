@@ -1,4 +1,0 @@
-sample text file
-created
-to test git 
-commands
